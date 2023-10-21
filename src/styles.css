@@ -20,8 +20,11 @@ section {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, -0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/vancouver.jpg");
+  background-image: linear-gradient(
+      rgba(39, 32, 68, 0.6),
+      rgba(39, 32, 68, 0.6)
+    ),
+    url("../images/vancouver-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
